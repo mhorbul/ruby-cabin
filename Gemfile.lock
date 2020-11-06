@@ -7,7 +7,7 @@ PATH
 GEM
   remote: http://rubygems.org/
   specs:
-    ffi (1.0.11)
+    ffi (1.13.1)
     ffi-rzmq (0.9.3)
       ffi
     json (1.6.5)
